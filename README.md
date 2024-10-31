@@ -9,11 +9,11 @@ Atherosclerose is a heterogeneous disease in which plaques are developed on the 
 
 
 
-**NameOfComputation_1**:  Pre-processing the data. In other words, executing a quality control, normalization, feature selection and performing a dimensionality reduction. 
+**Pre-processing the data.**:   In other words, executing a quality control, normalization, feature selection and performing a dimensionality reduction. 
 
-**NameOfComputation_2**:  Integration of datasets
+**Integration of datasets**:  Integration of the two mice datasets and the human dataset 
 
-**NameOfComputation_3**:  Clustering and annotating
+**Clustering and annotating**:  Clustering and annotation of the integrated datasets.
 
 
 

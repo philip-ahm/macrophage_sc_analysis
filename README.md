@@ -1,6 +1,27 @@
-**Short title + project description:** Single-cell analysis of the differences in gene expression and function of macrophages and macrophages subtypes in mice and humans with atherosclerose. 
+**Short title + project description:** Comparative single-cell analysis of
+macrophages and macrophage subtypes in
+atherosclerotic mice and humans
 
-Atherosclerose is a heterogeneous disease in which plaques are developed on the inside of the arteries which can cause arteriosclerosis and strokes. In the development of these plaques, the immune system plays a significant role, specifically macrophages. According to Mokry et al. [1], there are five different types of plaques, each with their own biomarker profile, macrophage subtypes and a difference in proportions of available macrophagesubtypes. However, as of yet it is unknown how these macrophagesubtypes play a role in the development of plaques. Therefore the goal of this project is to research the difference in gene expressions and function of macrophages and macrophagesubtypes mice and humans with atherosclerose. To achieve this, single-cell data of each organism is used to be able to research in detail which immune cells are involved with the development of plaques. 
+
+Atherosclerosis is a lipid-driven inflammatory disease affecting more than 500 million people yearly. It is
+characterized by plaque formation within the arteries that can lead to blocked arteries and strokes. Risk
+factors include a high concentration of LDL and a low concentration of HDL. Additionally, excess LDL is
+prone to oxidation in the arteries, which can attract monocytes that differentiate into macrophages that
+can either be atheroprotective or atherogenic, depending on their phenotype. Currently, there are suggested
+to be six distinct macrophage subtypes: resident-like macrophages, inflammatory macrophages, LAMs,
+iLAMs, IFNIC macrophages, and proliferating macrophages. To study macrophage heterogeneity, mouse
+models are used due to the ability to study atherosclerosis in a controlled environment and reduce costs.
+Among different genetically modified mouse models, ApoE-/- and LDLR-/- are primarily used to study
+macrophage heterogeneity. Tissue samples from these models can be analyzed using scRNA-seq. However,
+not all findings using mouse models are translatable to humans. The aim of this study was to analyze and
+compare transcriptional differences between atherosclerotic mouse and human macrophages to evaluate the
+translational value of using mouse as a model organism in human atherosclerosis research. To achieve this,
+atherosclerotic plaque samples were collected and analyzed using a well-established scRNA-seq workflow.
+Analysis revealed that the resident-like macrophages, inflammatory macrophages, and LAMs were largely
+conserved across species. In contrast, the iLAMs, and IFNIC macrophages showed several species-specific
+differentially expressed genes. Additionally, the proliferating macrophages were not found in the mouse
+macrophage populations. Despite several methodological limitations, these findings suggest that mouse
+models show promising translatability of macrophage findings to humans in atherosclerosis research.
 
 
 **Main contact:** Philip Ahmadzada
